@@ -49,6 +49,9 @@ static void OBSEvent(enum obs_frontend_event event, void *private_data)
 		}
 		break;
 	}
+	default: {
+		break;
+	}
 	}
 }
 
