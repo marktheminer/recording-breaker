@@ -43,6 +43,8 @@
   "website": "https://github.com/marktheminer/recording-breaker",
   "email": "mark.jones1112+nospam@gmail.com",
   "uuids": {
-    "windowsApp": "212c29f1-252c-42cb-9d70-65bb8c651a71"
+    "macosPackage": "cef47192-a1a0-47f1-ab28-a8b4ffd5f87f",
+    "macosInstaller": "e036da40-403b-43a3-9dcc-bb67f9b15c89",
+    "windowsApp": "8f8f9f6d-9983-48f6-aedb-571d58938e9d"
   }
 }
